@@ -8,7 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "node-emoji": "^1.8.1"
-  }
+  "dependencies": {}
 }
